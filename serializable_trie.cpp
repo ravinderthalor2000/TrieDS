@@ -1,4 +1,4 @@
-///author : Kartik Arora
+
 #include<bits/stdc++.h>
 using namespace std;
 
